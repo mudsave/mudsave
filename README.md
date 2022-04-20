@@ -14,6 +14,10 @@ https://gitcode.net/mirrors/hui211314dd/SequenceDialogue/-/tree/master/DialogueS
 UE4 Sequencer 自定义字幕轨道的功能 (github.com)
 
 
+### u3d
+https://github.com/mudsave/tutorial-tanks.git
+https://github.com/mudsave/tutorial-roll-a-ball.git
+
 ### 可参考
 https://github.com/mudsave/MahjongLogic  
 广东四川麻将的吃碰杠听胡逻辑以及广东麻将简易的AI实现
