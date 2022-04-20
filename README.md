@@ -15,8 +15,11 @@ UE4 Sequencer 自定义字幕轨道的功能 (github.com)
 
 
 ### u3d
-https://github.com/mudsave/tutorial-tanks.git
-https://github.com/mudsave/tutorial-roll-a-ball.git
+https://github.com/mudsave/tutorial-tanks.git  
+https://github.com/mudsave/tutorial-roll-a-ball.git  
+https://github.com/mudsave/GDGeek.git  
+一些代码参考  
+
 
 ### 可参考
 https://github.com/mudsave/MahjongLogic  
